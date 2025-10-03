@@ -1,2 +1,2 @@
-Coloque suas imagens em /imagens com os nomes: capa.jpg, acidente1.jpg, acidente2.jpg, acidente3.jpg.
+Coloque suas imagens em /imagens com os nomes: araucaria.jpg, cataratas.jpg, itaipu.jpg, parana.jpg.
 Abra index.html.
